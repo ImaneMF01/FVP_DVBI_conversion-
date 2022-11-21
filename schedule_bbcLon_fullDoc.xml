@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xml/xsl" href="schedule_bbcLon.xsl" version ="2.0"?>
+<TVAMain xmlns="urn:tva:metadata:2012" xmlns:tva2="urn:tva:metadata:extended:2012" xmlns:mpeg7="urn:tva:mpeg7:2008" xml:lang="eng" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProgramDescription>
+    <ProgramInformationTable xmlns:mpeg7="urn:tva:mpeg7:2008" xml:lang="eng">
+      <ProgramInformation programId="crid://bbc.co.uk/nitro/episode/m000zxgf">
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title type="main">Antiques Road Trip</Title>
+          <Title type="secondary">Series 23: Episode 13</Title>
+          <Synopsis length="short">Charles and Ochuko go shopping in Liverpool for antiques with a Chinese theme.</Synopsis>
+          <Synopsis length="medium">Auctioneer Charles Hanson and dealer Ochuko Ojiri visit Liverpool. A Chinese theme motivates the shopping for one expert, while the other has eyes for 1940s cake.</Synopsis>
+          <Genre href="urn:fvc:metadata:cs:ContentSubjectCS:2014-07:2" type="main"/>
+          <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+            <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+            <MediaLocator>
+              <MediaUri contentType="image/jpeg">http://img.freeviewplay.net/pd78d26281df381d0256de29c61c6b637</MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+      </ProgramInformation>
+      <ProgramInformation programId="crid://bbc.co.uk/nitro/episode/m0019771">
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title type="main">Pointless</Title>
+          <Title type="secondary">Series 27: Episode 50</Title>
+          <Synopsis length="short">Contestants score points by coming up with the answers no-one else could think of.</Synopsis>
+          <Synopsis length="medium">The quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.</Synopsis>
+          <Genre href="urn:fvc:metadata:cs:ContentSubjectCS:2014-07:3" type="main"/>
+          <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+            <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+            <MediaLocator>
+              <MediaUri contentType="image/jpeg">http://img.freeviewplay.net/p6724a2f2e563eee5f66caf31a3b5ebc5</MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+      </ProgramInformation>
+      <ProgramInformation programId="crid://bbc.co.uk/nitro/episode/m0019773">
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title type="main">BBC News at Six</Title>
+          <Title type="secondary">13/07/2022</Title>
+          <Synopsis length="short">The latest national and international news stories from the BBC News team.</Synopsis>
+          <Synopsis length="medium">The latest national and international news stories from the BBC News team, followed by weather.</Synopsis>
+          <Genre href="urn:fvc:metadata:cs:ContentSubjectCS:2014-07:2" type="main"/>
+          <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+            <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+            <MediaLocator>
+              <MediaUri contentType="image/jpeg">http://img.freeviewplay.net/p1ea24e833e36cc927373e97316b02e56</MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+      </ProgramInformation>
+      <ProgramInformation programId="crid://bbc.co.uk/nitro/episode/m0019775">
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title type="main">BBC London</Title>
+          <Title type="secondary">Evening News: 13/07/2022</Title>
+          <Synopsis length="medium">The latest news, sport and weather from London.</Synopsis>
+          <Genre href="urn:fvc:metadata:cs:ContentSubjectCS:2014-07:2" type="main"/>
+          <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+            <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+            <MediaLocator>
+              <MediaUri contentType="image/jpeg">http://img.freeviewplay.net/pfc7f9ad5116d052c4e082e7edc6aa7b7</MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+      </ProgramInformation>
+      <ProgramInformation programId="crid://bbc.co.uk/nitro/episode/m0019777">
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title type="main">The One Show</Title>
+          <Title type="secondary">13/07/2022</Title>
+          <Synopsis length="short">Space scientist Maggie Aderin-Pocock tells us about tonight’s supermoon.</Synopsis>
+          <Synopsis length="medium">Space scientist Maggie Aderin-Pocock tells us about tonight’s supermoon. Matt is in for Watchdog and Alex and Roman are joined by Lionesses midfielder Jill Scott and Gabby Logan.</Synopsis>
+          <Genre href="urn:fvc:metadata:cs:ContentSubjectCS:2014-07:2" type="main"/>
+          <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+            <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+            <MediaLocator>
+              <MediaUri contentType="image/jpeg">http://img.freeviewplay.net/p37b7f0a6793b8f94418a0024c2e480de</MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+      </ProgramInformation>
+      <ProgramInformation programId="crid://bbc.co.uk/nitro/episode/m0019779">
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title type="main">EastEnders</Title>
+          <Title type="secondary">13/07/2022</Title>
+          <Synopsis length="short">Ben and Peter drive Kathy to her wits' end, and Bailey and Bernie ambush Mitch.</Synopsis>
+          <Synopsis length="medium">Ben and Peter drive Kathy to her wits' end, Kim goes to extreme lengths to keep Howie close, and Bailey and Bernie ambush Mitch about what’s going on.</Synopsis>
+          <Genre href="urn:fvc:metadata:cs:ContentSubjectCS:2014-07:8" type="main"/>
+          <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+            <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+            <MediaLocator>
+              <MediaUri contentType="image/jpeg">http://img.freeviewplay.net/pf0f9563325facb367629d56b2256bb92</MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+      </ProgramInformation>
+      <ProgramInformation programId="crid://bbc.co.uk/nitro/episode/m0019m2p">
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title type="main">Panorama</Title>
+          <Title type="secondary">The Downfall of Boris Johnson</Title>
+          <Synopsis length="short">With Boris Johnson forced from office, Laura Kuenssberg looks at what led to his downfall.</Synopsis>
+          <Synopsis length="medium">As Boris Johnson is forced from office, Laura Kuenssberg looks at the scandals that led to his downfall, and hears from the candidates vying to replace him.</Synopsis>
+          <Genre href="urn:fvc:metadata:cs:ContentSubjectCS:2014-07:2" type="main"/>
+          <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+            <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+            <MediaLocator>
+              <MediaUri contentType="image/jpeg">http://img.freeviewplay.net/p14f721e7f7e4c29c8a37345244afdb7f</MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+      </ProgramInformation>
+      <ProgramInformation programId="crid://bbc.co.uk/nitro/episode/m00104c8">
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title type="main">The Repair Shop</Title>
+          <Title type="secondary">Series 4 (Shortened Versions): Episode 3</Title>
+          <Synopsis length="short">The team restore a pocket-sized racing car, a weather vane and a leather rhinoceros.</Synopsis>
+          <Synopsis length="medium">Jay Blades and the team restore a pocket-sized racing car, a century-old and very rusty weather vane and a much-loved but horribly damaged leather rhinoceros.</Synopsis>
+          <Genre href="urn:fvc:metadata:cs:ContentSubjectCS:2014-07:2" type="main"/>
+          <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+            <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+            <MediaLocator>
+              <MediaUri contentType="image/jpeg">http://img.freeviewplay.net/pec14757c558201a52bd0105a74d25652</MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+      </ProgramInformation>
+      <ProgramInformation programId="crid://bbc.co.uk/nitro/episode/m001977f">
+        <BasicDescription xmlns:mpeg7="urn:tva:mpeg7:2008" xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title type="main">The Real Mo Farah</Title>
+          <Synopsis length="short">Mo Farah reveals the truth about his journey to the UK and his Olympic successes.</Synopsis>
+          <Synopsis length="medium">Mo Farah reveals the truth about his childhood, the journey he made to the UK as a young boy, and the subsequent years that led to him winning two gold medals at the 2012 Olympics.</Synopsis>
+          <Genre href="urn:fvc:metadata:cs:ContentSubjectCS:2014-07:4" type="main"/>
+          <ParentalGuidance xmlns:mpeg7="urn:tva:mpeg7:2008">
+            <mpeg7:ParentalRating href="urn:dtg:metadata:cs:DTGContentWarningCS:2011:W"/>
+            <ExplanatoryText length="long">Contains some scenes which some viewers may find upsetting.</ExplanatoryText>
+          </ParentalGuidance>
+          <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+            <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+            <MediaLocator>
+              <MediaUri contentType="image/jpeg">http://img.freeviewplay.net/pa7e8058f14cdcf9bdeb30c03d8c6870f</MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+      </ProgramInformation>
+    </ProgramInformationTable>
+    <ProgramLocationTable xml:lang="eng">
+      <Schedule serviceIDRef="4164" start="2022-07-13T15:30:00Z" end="2022-07-13T21:00:00Z">
+        <ScheduleEvent>
+          <Program crid="crid://bbc.co.uk/nitro/episode/m000zxgf"/>
+          <ProgramURL>dvb://233a..1044;56</ProgramURL>
+          <InstanceDescription>
+            <CaptionLanguage closed="true">eng</CaptionLanguage>
+            <AVAttributes>
+              <AudioAttributes>
+                <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+                <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+              </AudioAttributes>
+              <VideoAttributes>
+                <HorizontalSize>1024</HorizontalSize>
+                <VerticalSize>576</VerticalSize>
+                <AspectRatio>16:9</AspectRatio>
+              </VideoAttributes>
+              <CaptioningAttributes>
+                <Coding href="urn:tva:metadata:cs:CaptionCodingFormatCS:2010:2.1"/>
+              </CaptioningAttributes>
+            </AVAttributes>
+            <OtherIdentifier type="eit-programme-crid">crid://fp.bbc.co.uk/m/JQPP</OtherIdentifier>
+            <OtherIdentifier type="eit-series-crid">crid://fp.bbc.co.uk/m-JGMZ</OtherIdentifier>
+          </InstanceDescription>
+          <PublishedStartTime>2022-07-13T15:30:00Z</PublishedStartTime>
+          <PublishedDuration>PT45M</PublishedDuration>
+        </ScheduleEvent>
+        <ScheduleEvent>
+          <Program crid="crid://bbc.co.uk/nitro/episode/m0019771"/>
+          <ProgramURL>dvb://233a..1044;57</ProgramURL>
+          <InstanceDescription>
+            <CaptionLanguage closed="true">eng</CaptionLanguage>
+            <AVAttributes>
+              <AudioAttributes>
+                <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+                <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+              </AudioAttributes>
+              <VideoAttributes>
+                <HorizontalSize>1024</HorizontalSize>
+                <VerticalSize>576</VerticalSize>
+                <AspectRatio>16:9</AspectRatio>
+              </VideoAttributes>
+              <CaptioningAttributes>
+                <Coding href="urn:tva:metadata:cs:CaptionCodingFormatCS:2010:2.1"/>
+              </CaptioningAttributes>
+            </AVAttributes>
+            <OtherIdentifier type="eit-programme-crid">crid://fp.bbc.co.uk/m/POU1</OtherIdentifier>
+            <OtherIdentifier type="eit-series-crid">crid://fp.bbc.co.uk/m-N9P2</OtherIdentifier>
+          </InstanceDescription>
+          <PublishedStartTime>2022-07-13T16:15:00Z</PublishedStartTime>
+          <PublishedDuration>PT45M</PublishedDuration>
+          <FirstShowing value="true"/>
+        </ScheduleEvent>
+        <ScheduleEvent>
+          <Program crid="crid://bbc.co.uk/nitro/episode/m0019773"/>
+          <ProgramURL>dvb://233a..1044;58</ProgramURL>
+          <InstanceDescription>
+            <CaptionLanguage closed="true">eng</CaptionLanguage>
+            <AVAttributes>
+              <AudioAttributes>
+                <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+                <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+              </AudioAttributes>
+              <VideoAttributes>
+                <HorizontalSize>1024</HorizontalSize>
+                <VerticalSize>576</VerticalSize>
+                <AspectRatio>16:9</AspectRatio>
+              </VideoAttributes>
+              <CaptioningAttributes>
+                <Coding href="urn:tva:metadata:cs:CaptionCodingFormatCS:2010:2.1"/>
+              </CaptioningAttributes>
+            </AVAttributes>
+            <OtherIdentifier type="eit-programme-crid">crid://fp.bbc.co.uk/m/POU3</OtherIdentifier>
+            <OtherIdentifier type="eit-series-crid">crid://fp.bbc.co.uk/b-474WC</OtherIdentifier>
+          </InstanceDescription>
+          <PublishedStartTime>2022-07-13T17:00:00Z</PublishedStartTime>
+          <PublishedDuration>PT30M</PublishedDuration>
+          <FirstShowing value="true"/>
+        </ScheduleEvent>
+        <ScheduleEvent>
+          <Program crid="crid://bbc.co.uk/nitro/episode/m0019775"/>
+          <ProgramURL>dvb://233a..1044;59</ProgramURL>
+          <InstanceDescription>
+            <CaptionLanguage closed="true">eng</CaptionLanguage>
+            <AVAttributes>
+              <AudioAttributes>
+                <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+                <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+              </AudioAttributes>
+              <VideoAttributes>
+                <HorizontalSize>1024</HorizontalSize>
+                <VerticalSize>576</VerticalSize>
+                <AspectRatio>16:9</AspectRatio>
+              </VideoAttributes>
+              <CaptioningAttributes>
+                <Coding href="urn:tva:metadata:cs:CaptionCodingFormatCS:2010:2.1"/>
+              </CaptioningAttributes>
+            </AVAttributes>
+            <OtherIdentifier type="eit-programme-crid">crid://fp.bbc.co.uk/m/POU5</OtherIdentifier>
+            <OtherIdentifier type="eit-series-crid">crid://fp.bbc.co.uk/b-3J9AKR</OtherIdentifier>
+          </InstanceDescription>
+          <PublishedStartTime>2022-07-13T17:30:00Z</PublishedStartTime>
+          <PublishedDuration>PT30M</PublishedDuration>
+          <FirstShowing value="true"/>
+        </ScheduleEvent>
+        <ScheduleEvent>
+          <Program crid="crid://bbc.co.uk/nitro/episode/m0019777"/>
+          <ProgramURL>dvb://233a..1044;5a</ProgramURL>
+          <InstanceDescription>
+            <CaptionLanguage closed="true">eng</CaptionLanguage>
+            <AVAttributes>
+              <AudioAttributes>
+                <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+                <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+              </AudioAttributes>
+              <VideoAttributes>
+                <HorizontalSize>1024</HorizontalSize>
+                <VerticalSize>576</VerticalSize>
+                <AspectRatio>16:9</AspectRatio>
+              </VideoAttributes>
+              <CaptioningAttributes>
+                <Coding href="urn:tva:metadata:cs:CaptionCodingFormatCS:2010:2.1"/>
+              </CaptioningAttributes>
+            </AVAttributes>
+            <OtherIdentifier type="eit-programme-crid">crid://fp.bbc.co.uk/m/POU7</OtherIdentifier>
+            <OtherIdentifier type="eit-series-crid">crid://fp.bbc.co.uk/b-4ARMT</OtherIdentifier>
+          </InstanceDescription>
+          <PublishedStartTime>2022-07-13T18:00:00Z</PublishedStartTime>
+          <PublishedDuration>PT30M</PublishedDuration>
+          <FirstShowing value="true"/>
+        </ScheduleEvent>
+        <ScheduleEvent>
+          <Program crid="crid://bbc.co.uk/nitro/episode/m0019779"/>
+          <ProgramURL>dvb://233a..1044;5b</ProgramURL>
+          <InstanceDescription>
+            <CaptionLanguage closed="true">eng</CaptionLanguage>
+            <AVAttributes>
+              <AudioAttributes>
+                <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+                <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+              </AudioAttributes>
+              <AudioAttributes>
+                <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:1">eng</AudioLanguage>
+              </AudioAttributes>
+              <VideoAttributes>
+                <HorizontalSize>1024</HorizontalSize>
+                <VerticalSize>576</VerticalSize>
+                <AspectRatio>16:9</AspectRatio>
+              </VideoAttributes>
+              <CaptioningAttributes>
+                <Coding href="urn:tva:metadata:cs:CaptionCodingFormatCS:2010:2.1"/>
+              </CaptioningAttributes>
+            </AVAttributes>
+            <OtherIdentifier type="eit-programme-crid">crid://fp.bbc.co.uk/m/POU9</OtherIdentifier>
+            <OtherIdentifier type="eit-series-crid">crid://fp.bbc.co.uk/b-3N2E9</OtherIdentifier>
+          </InstanceDescription>
+          <PublishedStartTime>2022-07-13T18:30:00Z</PublishedStartTime>
+          <PublishedDuration>PT30M</PublishedDuration>
+          <FirstShowing value="true"/>
+        </ScheduleEvent>
+        <ScheduleEvent>
+          <Program crid="crid://bbc.co.uk/nitro/episode/m0019m2p"/>
+          <ProgramURL>dvb://233a..1044;144</ProgramURL>
+          <InstanceDescription>
+            <CaptionLanguage closed="true">eng</CaptionLanguage>
+            <AVAttributes>
+              <AudioAttributes>
+                <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+                <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+              </AudioAttributes>
+              <VideoAttributes>
+                <HorizontalSize>1024</HorizontalSize>
+                <VerticalSize>576</VerticalSize>
+                <AspectRatio>16:9</AspectRatio>
+              </VideoAttributes>
+              <CaptioningAttributes>
+                <Coding href="urn:tva:metadata:cs:CaptionCodingFormatCS:2010:2.1"/>
+              </CaptioningAttributes>
+            </AVAttributes>
+            <OtherIdentifier type="eit-programme-crid">crid://fp.bbc.co.uk/m/PXMM</OtherIdentifier>
+            <OtherIdentifier type="eit-series-crid">crid://fp.bbc.co.uk/b-3QR32</OtherIdentifier>
+          </InstanceDescription>
+          <PublishedStartTime>2022-07-13T19:00:00Z</PublishedStartTime>
+          <PublishedDuration>PT30M</PublishedDuration>
+          <FirstShowing value="true"/>
+        </ScheduleEvent>
+        <ScheduleEvent>
+          <Program crid="crid://bbc.co.uk/nitro/episode/m00104c8"/>
+          <ProgramURL>dvb://233a..1044;145</ProgramURL>
+          <InstanceDescription>
+            <CaptionLanguage closed="true">eng</CaptionLanguage>
+            <AVAttributes>
+              <AudioAttributes>
+                <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+                <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+              </AudioAttributes>
+              <VideoAttributes>
+                <HorizontalSize>1024</HorizontalSize>
+                <VerticalSize>576</VerticalSize>
+                <AspectRatio>16:9</AspectRatio>
+              </VideoAttributes>
+              <CaptioningAttributes>
+                <Coding href="urn:tva:metadata:cs:CaptionCodingFormatCS:2010:2.1"/>
+              </CaptioningAttributes>
+            </AVAttributes>
+            <OtherIdentifier type="eit-programme-crid">crid://fp.bbc.co.uk/m/JVTU</OtherIdentifier>
+            <OtherIdentifier type="eit-series-crid">crid://fp.bbc.co.uk/m-JLF4</OtherIdentifier>
+          </InstanceDescription>
+          <PublishedStartTime>2022-07-13T19:30:00Z</PublishedStartTime>
+          <PublishedDuration>PT30M</PublishedDuration>
+        </ScheduleEvent>
+        <ScheduleEvent>
+          <Program crid="crid://bbc.co.uk/nitro/episode/m001977f"/>
+          <ProgramURL>dvb://233a..1044;5d</ProgramURL>
+          <InstanceDescription>
+            <CaptionLanguage closed="true">eng</CaptionLanguage>
+            <AVAttributes>
+              <AudioAttributes>
+                <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+                <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+              </AudioAttributes>
+              <AudioAttributes>
+                <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:1">eng</AudioLanguage>
+              </AudioAttributes>
+              <VideoAttributes>
+                <HorizontalSize>1024</HorizontalSize>
+                <VerticalSize>576</VerticalSize>
+                <AspectRatio>16:9</AspectRatio>
+              </VideoAttributes>
+              <CaptioningAttributes>
+                <Coding href="urn:tva:metadata:cs:CaptionCodingFormatCS:2010:2.1"/>
+              </CaptioningAttributes>
+            </AVAttributes>
+            <OtherIdentifier type="eit-programme-crid">crid://fp.bbc.co.uk/m/POUD</OtherIdentifier>
+          </InstanceDescription>
+          <PublishedStartTime>2022-07-13T20:00:00Z</PublishedStartTime>
+          <PublishedDuration>PT1H</PublishedDuration>
+          <FirstShowing value="true"/>
+        </ScheduleEvent>
+      </Schedule>
+      <OnDemandProgram serviceIDRef="http://www.bbc.co.uk/nitro/service/content_owning/bbc_one">
+        <Program crid="crid://bbc.co.uk/nitro/episode/m000zxgf"/>
+        <ProgramURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/playback/m000zxgf</ProgramURL>
+        <AuxiliaryURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</AuxiliaryURL>
+        <InstanceDescription>
+          <Genre href="urn:fvc:metadata:cs:MediaAvailabilityCS:2014-07:media_available" type="other"/>
+          <Genre href="urn:fvc:metadata:cs:FEPGAvailabilityCS:2014-10:fepg_available" type="other"/>
+          <CaptionLanguage closed="true">qaa</CaptionLanguage>
+          <AVAttributes>
+            <AudioAttributes>
+              <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+              <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+            </AudioAttributes>
+            <VideoAttributes>
+              <HorizontalSize>1920</HorizontalSize>
+              <VerticalSize>1080</VerticalSize>
+              <AspectRatio>16:9</AspectRatio>
+            </VideoAttributes>
+          </AVAttributes>
+        </InstanceDescription>
+        <PublishedDuration>PT43M</PublishedDuration>
+        <StartOfAvailability>2022-02-09T19:00:00Z</StartOfAvailability>
+        <EndOfAvailability>2022-10-08T16:15:00Z</EndOfAvailability>
+        <DeliveryMode>streaming</DeliveryMode>
+        <Free value="true"/>
+      </OnDemandProgram>
+      <OnDemandProgram serviceIDRef="http://www.bbc.co.uk/nitro/service/content_owning/bbc_one">
+        <Program crid="crid://bbc.co.uk/nitro/episode/m0019771"/>
+        <ProgramURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/playback/m0019771</ProgramURL>
+        <AuxiliaryURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</AuxiliaryURL>
+        <InstanceDescription>
+          <Genre href="urn:fvc:metadata:cs:MediaAvailabilityCS:2014-07:media_unavailable" type="other"/>
+          <Genre href="urn:fvc:metadata:cs:FEPGAvailabilityCS:2014-10:fepg_available" type="other"/>
+          <AVAttributes>
+            <AudioAttributes>
+              <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+              <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+            </AudioAttributes>
+            <VideoAttributes>
+              <HorizontalSize>576</HorizontalSize>
+              <VerticalSize>512</VerticalSize>
+              <AspectRatio>16:9</AspectRatio>
+            </VideoAttributes>
+          </AVAttributes>
+        </InstanceDescription>
+        <PublishedDuration>PT43M</PublishedDuration>
+        <StartOfAvailability>2022-07-13T17:00:00Z</StartOfAvailability>
+        <EndOfAvailability>2023-07-13T17:00:00Z</EndOfAvailability>
+        <DeliveryMode>streaming</DeliveryMode>
+        <Free value="true"/>
+      </OnDemandProgram>
+      <OnDemandProgram serviceIDRef="http://www.bbc.co.uk/nitro/service/content_owning/bbc_news">
+        <Program crid="crid://bbc.co.uk/nitro/episode/m0019773"/>
+        <ProgramURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/playback/m0019773</ProgramURL>
+        <AuxiliaryURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</AuxiliaryURL>
+        <InstanceDescription>
+          <Genre href="urn:fvc:metadata:cs:MediaAvailabilityCS:2014-07:media_unavailable" type="other"/>
+          <Genre href="urn:fvc:metadata:cs:FEPGAvailabilityCS:2014-10:fepg_available" type="other"/>
+          <AVAttributes>
+            <AudioAttributes>
+              <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+              <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+            </AudioAttributes>
+            <VideoAttributes>
+              <HorizontalSize>576</HorizontalSize>
+              <VerticalSize>512</VerticalSize>
+              <AspectRatio>16:9</AspectRatio>
+            </VideoAttributes>
+          </AVAttributes>
+        </InstanceDescription>
+        <PublishedDuration>PT31M</PublishedDuration>
+        <StartOfAvailability>2022-07-13T17:30:00Z</StartOfAvailability>
+        <EndOfAvailability>2022-07-14T17:30:00Z</EndOfAvailability>
+        <DeliveryMode>streaming</DeliveryMode>
+        <Free value="true"/>
+      </OnDemandProgram>
+      <OnDemandProgram serviceIDRef="http://www.bbc.co.uk/nitro/service/content_owning/bbc_one">
+        <Program crid="crid://bbc.co.uk/nitro/episode/m0019775"/>
+        <ProgramURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/playback/m0019775</ProgramURL>
+        <AuxiliaryURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</AuxiliaryURL>
+        <InstanceDescription>
+          <Genre href="urn:fvc:metadata:cs:MediaAvailabilityCS:2014-07:media_unavailable" type="other"/>
+          <Genre href="urn:fvc:metadata:cs:FEPGAvailabilityCS:2014-10:fepg_available" type="other"/>
+          <AVAttributes>
+            <AudioAttributes>
+              <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+              <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+            </AudioAttributes>
+            <VideoAttributes>
+              <HorizontalSize>576</HorizontalSize>
+              <VerticalSize>512</VerticalSize>
+              <AspectRatio>16:9</AspectRatio>
+            </VideoAttributes>
+          </AVAttributes>
+        </InstanceDescription>
+        <PublishedDuration>PT30M</PublishedDuration>
+        <StartOfAvailability>2022-07-13T18:00:00Z</StartOfAvailability>
+        <EndOfAvailability>2022-07-14T18:00:00Z</EndOfAvailability>
+        <DeliveryMode>streaming</DeliveryMode>
+        <Free value="true"/>
+      </OnDemandProgram>
+      <OnDemandProgram serviceIDRef="http://www.bbc.co.uk/nitro/service/content_owning/bbc_one">
+        <Program crid="crid://bbc.co.uk/nitro/episode/m0019777"/>
+        <ProgramURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/playback/m0019777</ProgramURL>
+        <AuxiliaryURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</AuxiliaryURL>
+        <InstanceDescription>
+          <Genre href="urn:fvc:metadata:cs:MediaAvailabilityCS:2014-07:media_unavailable" type="other"/>
+          <Genre href="urn:fvc:metadata:cs:FEPGAvailabilityCS:2014-10:fepg_available" type="other"/>
+          <AVAttributes>
+            <AudioAttributes>
+              <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+              <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+            </AudioAttributes>
+            <VideoAttributes>
+              <HorizontalSize>576</HorizontalSize>
+              <VerticalSize>512</VerticalSize>
+              <AspectRatio>16:9</AspectRatio>
+            </VideoAttributes>
+          </AVAttributes>
+        </InstanceDescription>
+        <PublishedDuration>PT28M</PublishedDuration>
+        <StartOfAvailability>2022-07-13T18:30:00Z</StartOfAvailability>
+        <EndOfAvailability>2022-08-12T18:30:00Z</EndOfAvailability>
+        <DeliveryMode>streaming</DeliveryMode>
+        <Free value="true"/>
+      </OnDemandProgram>
+      <OnDemandProgram serviceIDRef="http://www.bbc.co.uk/nitro/service/content_owning/bbc_one">
+        <Program crid="crid://bbc.co.uk/nitro/episode/m0019779"/>
+        <ProgramURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/playback/m0019779</ProgramURL>
+        <AuxiliaryURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</AuxiliaryURL>
+        <InstanceDescription>
+          <Genre href="urn:fvc:metadata:cs:MediaAvailabilityCS:2014-07:media_available" type="other"/>
+          <Genre href="urn:fvc:metadata:cs:FEPGAvailabilityCS:2014-10:fepg_available" type="other"/>
+          <CaptionLanguage closed="true">qaa</CaptionLanguage>
+          <AVAttributes>
+            <AudioAttributes>
+              <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+              <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+            </AudioAttributes>
+            <AudioAttributes>
+              <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:1">eng</AudioLanguage>
+            </AudioAttributes>
+            <VideoAttributes>
+              <HorizontalSize>1920</HorizontalSize>
+              <VerticalSize>1080</VerticalSize>
+              <AspectRatio>16:9</AspectRatio>
+            </VideoAttributes>
+          </AVAttributes>
+        </InstanceDescription>
+        <PublishedDuration>PT29M</PublishedDuration>
+        <StartOfAvailability>2022-07-11T05:00:00Z</StartOfAvailability>
+        <EndOfAvailability>2027-03-31T05:00:00Z</EndOfAvailability>
+        <DeliveryMode>streaming</DeliveryMode>
+        <Free value="true"/>
+      </OnDemandProgram>
+      <OnDemandProgram serviceIDRef="http://www.bbc.co.uk/nitro/service/content_owning/bbc_one">
+        <Program crid="crid://bbc.co.uk/nitro/episode/m0019m2p"/>
+        <ProgramURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/playback/m0019m2p</ProgramURL>
+        <AuxiliaryURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</AuxiliaryURL>
+        <InstanceDescription>
+          <Genre href="urn:fvc:metadata:cs:MediaAvailabilityCS:2014-07:media_unavailable" type="other"/>
+          <Genre href="urn:fvc:metadata:cs:FEPGAvailabilityCS:2014-10:fepg_available" type="other"/>
+          <AVAttributes>
+            <AudioAttributes>
+              <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+              <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+            </AudioAttributes>
+            <VideoAttributes>
+              <HorizontalSize>576</HorizontalSize>
+              <VerticalSize>512</VerticalSize>
+              <AspectRatio>16:9</AspectRatio>
+            </VideoAttributes>
+          </AVAttributes>
+        </InstanceDescription>
+        <PublishedDuration>PT29M</PublishedDuration>
+        <StartOfAvailability>2022-07-13T19:30:00Z</StartOfAvailability>
+        <EndOfAvailability>2023-07-13T19:30:00Z</EndOfAvailability>
+        <DeliveryMode>streaming</DeliveryMode>
+        <Free value="true"/>
+      </OnDemandProgram>
+      <OnDemandProgram serviceIDRef="http://www.bbc.co.uk/nitro/service/content_owning/bbc_one">
+        <Program crid="crid://bbc.co.uk/nitro/episode/m00104c8"/>
+        <ProgramURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/playback/m00104c8</ProgramURL>
+        <AuxiliaryURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</AuxiliaryURL>
+        <InstanceDescription>
+          <Genre href="urn:fvc:metadata:cs:MediaAvailabilityCS:2014-07:media_unavailable" type="other"/>
+          <Genre href="urn:fvc:metadata:cs:FEPGAvailabilityCS:2014-10:fepg_available" type="other"/>
+          <AVAttributes>
+            <AudioAttributes>
+              <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+              <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+            </AudioAttributes>
+            <VideoAttributes>
+              <HorizontalSize>576</HorizontalSize>
+              <VerticalSize>512</VerticalSize>
+              <AspectRatio>16:9</AspectRatio>
+            </VideoAttributes>
+          </AVAttributes>
+        </InstanceDescription>
+        <PublishedDuration>PT28M</PublishedDuration>
+        <StartOfAvailability>2022-07-13T20:00:00Z</StartOfAvailability>
+        <EndOfAvailability>2022-08-12T20:00:00Z</EndOfAvailability>
+        <DeliveryMode>streaming</DeliveryMode>
+        <Free value="true"/>
+      </OnDemandProgram>
+      <OnDemandProgram serviceIDRef="http://www.bbc.co.uk/nitro/service/content_owning/bbc_one">
+        <Program crid="crid://bbc.co.uk/nitro/episode/m001977f"/>
+        <ProgramURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/playback/m001977f</ProgramURL>
+        <AuxiliaryURL contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</AuxiliaryURL>
+        <InstanceDescription>
+          <Genre href="urn:fvc:metadata:cs:MediaAvailabilityCS:2014-07:media_available" type="other"/>
+          <Genre href="urn:fvc:metadata:cs:FEPGAvailabilityCS:2014-10:fepg_available" type="other"/>
+          <CaptionLanguage closed="true">qaa</CaptionLanguage>
+          <AVAttributes>
+            <AudioAttributes>
+              <MixType href="urn:mpeg:mpeg7:cs:AudioPresentationCS:2001:3"/>
+              <AudioLanguage purpose="urn:tva:metadata:cs:AudioPurposeCS:2007:6">eng</AudioLanguage>
+            </AudioAttributes>
+            <VideoAttributes>
+              <HorizontalSize>1920</HorizontalSize>
+              <VerticalSize>1080</VerticalSize>
+              <AspectRatio>16:9</AspectRatio>
+            </VideoAttributes>
+          </AVAttributes>
+        </InstanceDescription>
+        <PublishedDuration>PT59M</PublishedDuration>
+        <StartOfAvailability>2022-07-13T05:00:00Z</StartOfAvailability>
+        <EndOfAvailability>2023-07-13T21:00:00Z</EndOfAvailability>
+        <DeliveryMode>streaming</DeliveryMode>
+        <Free value="true"/>
+      </OnDemandProgram>
+    </ProgramLocationTable>
+  </ProgramDescription>
+</TVAMain>

@@ -1,0 +1,41 @@
+{
+  "clm_base_url": "https://api.freeviewplay.net/1.7/CLMassignment",
+  "default_original_network_id": 9018,
+  "tsid_groups": [
+    {
+      "group_order": 1,
+      "min": 4096,
+      "max": 8191
+    },
+    {
+      "group_order": 2,
+      "min": 8192,
+      "max": 12287
+    },
+    {
+      "group_order": 3,
+      "min": 16384,
+      "max": 20479
+    },
+    {
+      "group_order": 4,
+      "min": 12288,
+      "max": 16383
+    },
+    {
+      "group_order": 5,
+      "min": 20480,
+      "max": 24575
+    },
+    {
+      "group_order": 6,
+      "min": 24576,
+      "max": 28671
+    },
+    {
+      "group_order": 7,
+      "min": 32768,
+      "max": 36863
+    }
+  ]
+}

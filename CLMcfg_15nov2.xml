@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<clm_base_url>https://api.freeviewplay.net/1.7/CLMassignment</clm_base_url>
+	<default_original_network_id>9018</default_original_network_id>
+	<tsid_groups>
+		<group_order>1</group_order>
+		<min>4096</min>
+		<max>8191</max>
+	</tsid_groups>
+	<tsid_groups>
+		<group_order>2</group_order>
+		<min>8192</min>
+		<max>12287</max>
+	</tsid_groups>
+	<tsid_groups>
+		<group_order>3</group_order>
+		<min>16384</min>
+		<max>20479</max>
+	</tsid_groups>
+	<tsid_groups>
+		<group_order>4</group_order>
+		<min>12288</min>
+		<max>16383</max>
+	</tsid_groups>
+	<tsid_groups>
+		<group_order>5</group_order>
+		<min>20480</min>
+		<max>24575</max>
+	</tsid_groups>
+	<tsid_groups>
+		<group_order>6</group_order>
+		<min>24576</min>
+		<max>28671</max>
+	</tsid_groups>
+	<tsid_groups>
+		<group_order>7</group_order>
+		<min>32768</min>
+		<max>36863</max>
+	</tsid_groups>
+</root>

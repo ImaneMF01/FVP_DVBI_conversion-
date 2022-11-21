@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TVAMain xmlns="urn:tva:metadata:2012" xmlns:tva2="urn:tva:metadata:extended:2012" xmlns:mpeg7="urn:tva:mpeg7:2008" xml:lang="eng" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProgramDescription>
+    <GroupInformationTable>
+      <GroupInformation groupId="crid://digitaluk.co.uk/collections/boxsets/categories" ordered="true" numOfItems="12">
+        <GroupType xsi:type="ProgramGroupTypeType" value="otherCollection"/>
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title>Category Group</Title>
+        </BasicDescription>
+      </GroupInformation>
+      <GroupInformation groupId="crid://digitaluk.co.uk/boxsets/categories/top_picks">
+        <GroupType xsi:type="ProgramGroupTypeType" value="otherCollection"/>
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title>Top Picks</Title>
+          <Synopsis length="short">Top Picks</Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type="MemberOfType" index="1" crid="crid://digitaluk.co.uk/collections/boxsets/categories"/>
+      </GroupInformation>
+      <GroupInformation groupId="crid://digitaluk.co.uk/boxsets/categories/comedy">
+        <GroupType xsi:type="ProgramGroupTypeType" value="otherCollection"/>
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title>Comedy</Title>
+          <Synopsis length="short">Comedy</Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type="MemberOfType" index="2" crid="crid://digitaluk.co.uk/collections/boxsets/categories"/>
+      </GroupInformation>
+      <GroupInformation groupId="crid://digitaluk.co.uk/boxsets/categories/classic_comedy">
+        <GroupType xsi:type="ProgramGroupTypeType" value="otherCollection"/>
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title>Classic Comedy</Title>
+          <Synopsis length="short">Classic Comedy</Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type="MemberOfType" index="3" crid="crid://digitaluk.co.uk/collections/boxsets/categories"/>
+      </GroupInformation>
+      <GroupInformation groupId="crid://digitaluk.co.uk/boxsets/categories/documentaries">
+        <GroupType xsi:type="ProgramGroupTypeType" value="otherCollection"/>
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title>Documentaries</Title>
+          <Synopsis length="short">Documentaries</Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type="MemberOfType" index="4" crid="crid://digitaluk.co.uk/collections/boxsets/categories"/>
+      </GroupInformation>
+      <GroupInformation groupId="crid://digitaluk.co.uk/boxsets/categories/drama">
+        <GroupType xsi:type="ProgramGroupTypeType" value="otherCollection"/>
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title>Drama</Title>
+          <Synopsis length="short">drama</Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type="MemberOfType" index="5" crid="crid://digitaluk.co.uk/collections/boxsets/categories"/>
+      </GroupInformation>
+      <GroupInformation groupId="crid://digitaluk.co.uk/boxsets/categories/crime_drama">
+        <GroupType xsi:type="ProgramGroupTypeType" value="otherCollection"/>
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title>Crime Drama</Title>
+          <Synopsis length="short">Crime Drama</Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type="MemberOfType" index="6" crid="crid://digitaluk.co.uk/collections/boxsets/categories"/>
+      </GroupInformation>
+      <GroupInformation groupId="crid://digitaluk.co.uk/boxsets/categories/period_drama">
+        <GroupType xsi:type="ProgramGroupTypeType" value="otherCollection"/>
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title>Period Drama</Title>
+          <Synopsis length="short">Period Drama</Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type="MemberOfType" index="7" crid="crid://digitaluk.co.uk/collections/boxsets/categories"/>
+      </GroupInformation>
+      <GroupInformation groupId="crid://digitaluk.co.uk/boxsets/categories/world_drama">
+        <GroupType xsi:type="ProgramGroupTypeType" value="otherCollection"/>
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title>World Drama</Title>
+          <Synopsis length="short">World Drama</Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type="MemberOfType" index="8" crid="crid://digitaluk.co.uk/collections/boxsets/categories"/>
+      </GroupInformation>
+      <GroupInformation groupId="crid://digitaluk.co.uk/boxsets/categories/entertainment">
+        <GroupType xsi:type="ProgramGroupTypeType" value="otherCollection"/>
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title>Entertainment</Title>
+          <Synopsis length="short">Entertainment</Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type="MemberOfType" index="9" crid="crid://digitaluk.co.uk/collections/boxsets/categories"/>
+      </GroupInformation>
+      <GroupInformation groupId="crid://digitaluk.co.uk/boxsets/categories/food">
+        <GroupType xsi:type="ProgramGroupTypeType" value="otherCollection"/>
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title>Food</Title>
+          <Synopsis length="short">Food</Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type="MemberOfType" index="10" crid="crid://digitaluk.co.uk/collections/boxsets/categories"/>
+      </GroupInformation>
+      <GroupInformation groupId="crid://digitaluk.co.uk/boxsets/categories/home_garden">
+        <GroupType xsi:type="ProgramGroupTypeType" value="otherCollection"/>
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title>Home &amp; Garden</Title>
+          <Synopsis length="short">Home &amp; Garden</Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type="MemberOfType" index="11" crid="crid://digitaluk.co.uk/collections/boxsets/categories"/>
+      </GroupInformation>
+      <GroupInformation groupId="crid://digitaluk.co.uk/boxsets/categories/science_nature">
+        <GroupType xsi:type="ProgramGroupTypeType" value="otherCollection"/>
+        <BasicDescription xsi:type="tva2:ExtendedContentDescriptionType">
+          <Title>Science &amp; Nature</Title>
+          <Synopsis length="short">Science &amp; Nature</Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type="MemberOfType" index="12" crid="crid://digitaluk.co.uk/collections/boxsets/categories"/>
+      </GroupInformation>
+    </GroupInformationTable>
+  </ProgramDescription>
+</TVAMain>

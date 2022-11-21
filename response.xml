@@ -1,0 +1,2909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TVAMain xmlns="urn:tva:metadata:2012" xmlns:tva2="urn:tva:metadata:extended:2012" xmlns:mpeg7="urn:tva:mpeg7:2008" xml:lang="eng" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProgramDescription>
+    <ServiceInformationTable xml:lang="eng">
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="4164">
+        <Name>BBC ONE Lon</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1044</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/bbc_one_london</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sce0bc23f7b08de55ceb697581c6cda8a</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC ONE Lon</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="4287">
+        <Name>BBC TWO</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..10bf</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/bbc_two_england</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/se9fa78602ef0e2ed93044629e5a5751e</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC TWO</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="8261">
+        <Name>ITV</Name>
+        <Owner>ITV PLC</Owner>
+        <ServiceURL>dvb://233a..2045</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://aitlauncher.10ft.itv.com/platform/itvonline/freeview/app-info/template</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sb2238840d2aaeeb67322aaaaef957402</MediaUri>
+          </MediaLocator>
+          <PromotionalText>ITV</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="8384">
+        <Name>Channel 4</Name>
+        <Owner>Channel4</Owner>
+        <ServiceURL>dvb://233a..20c0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://ait.channel4.com/ait/content</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sede86b313090685a4850df24027bd020</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Channel 4</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="8500">
+        <Name>Channel 5</Name>
+        <Owner>Channel 5 Broadcasting Ltd</Owner>
+        <ServiceURL>dvb://233a..2134</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://cassie-auth.channel5.com/freeviewplay/ait/player.xml</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s1a8d99d445ac84a3b3cfeece77a29691</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Channel 5</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="8325">
+        <Name>ITV 2</Name>
+        <Owner>ITV PLC</Owner>
+        <ServiceURL>dvb://233a..2085</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://aitlauncher.10ft.itv.com/platform/itvonline/freeview/app-info/template</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s66c4032c3cfd82e3d5b4650fadb10bb0</MediaUri>
+          </MediaLocator>
+          <PromotionalText>ITV 2</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="32863">
+        <Name>That's TV</Name>
+        <Owner>That's Media</Owner>
+        <ServiceURL>dvb://233a..805f</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sdff1e587cbf94e59968a221d528289e1</MediaUri>
+          </MediaLocator>
+          <PromotionalText>That's TV</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="32842">
+        <Name>London Live</Name>
+        <Owner>ESTV</Owner>
+        <ServiceURL>dvb://233a..804a</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s37e7914db89b4ac7f49bd53a028e5fdf</MediaUri>
+          </MediaLocator>
+          <PromotionalText>London Live</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="4544">
+        <Name>BBC FOUR</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..11c0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/bbc_four</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/secf1bc3fea76671190438871f158ef4f</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC FOUR</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="8294">
+        <Name>ITV3</Name>
+        <Owner>ITV PLC</Owner>
+        <ServiceURL>dvb://233a..2066</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://aitlauncher.10ft.itv.com/platform/itvonline/freeview/app-info/template</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/se2c9b7e70e2eea2080ed81f68d4b8f96</MediaUri>
+          </MediaLocator>
+          <PromotionalText>ITV3</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="22144">
+        <Name>Sky Arts</Name>
+        <Owner>Sky</Owner>
+        <ServiceURL>dvb://233a..5680</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s19c73275c6a305730037829a088a81a6</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Sky Arts</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="14498">
+        <Name>QUEST</Name>
+        <Owner>Discovery</Owner>
+        <ServiceURL>dvb://233a..38a2</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s25c0175d9a3ed6037c774b96651e9489</MediaUri>
+          </MediaLocator>
+          <PromotionalText>QUEST</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="8448">
+        <Name>E4</Name>
+        <Owner>Channel4</Owner>
+        <ServiceURL>dvb://233a..2100</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://ait.channel4.com/ait/content</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s78a6c8d02be1e0f08b0e6fba92914cb6</MediaUri>
+          </MediaLocator>
+          <PromotionalText>E4</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="8385">
+        <Name>Film4</Name>
+        <Owner>Channel4</Owner>
+        <ServiceURL>dvb://233a..20c1</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://ait.channel4.com/ait/content</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s932eb0b26e302d07c085e14052c12ec6</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Film4</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="8452">
+        <Name>Channel 4+1</Name>
+        <Owner>Channel4</Owner>
+        <ServiceURL>dvb://233a..2104</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://ait.channel4.com/ait/content</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s09f4d71bc95c68eb16695e7777e75908</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Channel 4+1</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="13120">
+        <Name>QVC</Name>
+        <Owner>QVC</Owner>
+        <ServiceURL>dvb://233a..3340</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sc579ed9a539df5073a88f403aafe4295</MediaUri>
+          </MediaLocator>
+          <PromotionalText>QVC</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="23712">
+        <Name>Really</Name>
+        <Owner>Discovery</Owner>
+        <ServiceURL>dvb://233a..5ca0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s89c9f7d53e16280b958df47106a554d8</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Really</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="8442">
+        <Name>More 4</Name>
+        <Owner>Channel4</Owner>
+        <ServiceURL>dvb://233a..20fa</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://ait.channel4.com/ait/content</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s885f1093c87216a97631c9a49a2aff89</MediaUri>
+          </MediaLocator>
+          <PromotionalText>More 4</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="22272">
+        <Name>Dave</Name>
+        <Owner>UKTV</Owner>
+        <ServiceURL>dvb://233a..5700</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://vschedules.uktv.co.uk/tva_meta/playerait.xml</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s116b6aa22f6d8d64c085cd5f0c57a0b2</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Dave</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="16208">
+        <Name>Drama</Name>
+        <Owner>UKTV</Owner>
+        <ServiceURL>dvb://233a..3f50</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://vschedules.uktv.co.uk/tva_meta/playerait.xml</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s74e9257ffb47219bf6a1c8e57dcb129f</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Drama</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="12992">
+        <Name>5USA</Name>
+        <Owner>Channel 5 Broadcasting Ltd</Owner>
+        <ServiceURL>dvb://233a..32c0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://cassie-auth.channel5.com/freeviewplay/ait/player.xml</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sc41171f2259f7ef4e8ae07260566259c</MediaUri>
+          </MediaLocator>
+          <PromotionalText>5USA</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="15592">
+        <Name>TJC</Name>
+        <Owner>TJC</Owner>
+        <ServiceURL>dvb://233a..3ce8</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sff75d9fe7b53ecfbcb2ee3b686e2b561</MediaUri>
+          </MediaLocator>
+          <PromotionalText>TJC</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="4288">
+        <Name>BBC THREE</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..10c0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/bbc_three</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sbbbec5ee547cc0d42dc98c3d858389d2</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC THREE</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="28096">
+        <Name>W</Name>
+        <Owner>UKTV</Owner>
+        <ServiceURL>dvb://233a..6dc0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://vschedules.uktv.co.uk/tva_meta/playerait.xml</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sc8952b9f191805695de3505bbf56383b</MediaUri>
+          </MediaLocator>
+          <PromotionalText>W</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="8330">
+        <Name>ITV4</Name>
+        <Owner>ITV PLC</Owner>
+        <ServiceURL>dvb://233a..208a</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://aitlauncher.10ft.itv.com/platform/itvonline/freeview/app-info/template</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s4f9b4dc4d8dc6feae656cd352e1fae10</MediaUri>
+          </MediaLocator>
+          <PromotionalText>ITV4</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="25792">
+        <Name>Yesterday</Name>
+        <Owner>UKTV</Owner>
+        <ServiceURL>dvb://233a..64c0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://vschedules.uktv.co.uk/tva_meta/playerait.xml</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s535f06285a9036d8189d1ce57b599e43</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Yesterday</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="15856">
+        <Name>ITVBe</Name>
+        <Owner>ITV PLC</Owner>
+        <ServiceURL>dvb://233a..3df0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://aitlauncher.10ft.itv.com/platform/itvonline/freeview/app-info/template</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s73ee9bbec2263cbe06f7946d615eef19</MediaUri>
+          </MediaLocator>
+          <PromotionalText>ITVBe</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="15952">
+        <Name>ITV2 +1</Name>
+        <Owner>ITV PLC</Owner>
+        <ServiceURL>dvb://233a..3e50</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://aitlauncher.10ft.itv.com/platform/itvonline/freeview/app-info/template</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s1aca0cb086321c259fd2727061413882</MediaUri>
+          </MediaLocator>
+          <PromotionalText>ITV2 +1</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="8458">
+        <Name>E4+1</Name>
+        <Owner>Channel4</Owner>
+        <ServiceURL>dvb://233a..210a</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://ait.channel4.com/ait/content</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s72d1054bef0dfc2d581b2d9b0689296e</MediaUri>
+          </MediaLocator>
+          <PromotionalText>E4+1</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="22368">
+        <Name>E4 Extra</Name>
+        <Owner>Channel4</Owner>
+        <ServiceURL>dvb://233a..5760</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://ait.channel4.com/ait/content</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s65ca7f8e414ec9ab17304906d03351dd</MediaUri>
+          </MediaLocator>
+          <PromotionalText>E4 Extra</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="12928">
+        <Name>5STAR</Name>
+        <Owner>Channel 5 Broadcasting Ltd</Owner>
+        <ServiceURL>dvb://233a..3280</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://cassie-auth.channel5.com/freeviewplay/ait/player.xml</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s7d42122b5eefb317ce3c856a12c8cc58</MediaUri>
+          </MediaLocator>
+          <PromotionalText>5STAR</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="16112">
+        <Name>5ACTION</Name>
+        <Owner>Channel 5 Broadcasting Ltd</Owner>
+        <ServiceURL>dvb://233a..3ef0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://cassie-auth.channel5.com/freeviewplay/ait/player.xml</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s279c94e67ee87fe30fd9e82c1427a377</MediaUri>
+          </MediaLocator>
+          <PromotionalText>5ACTION</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="27872">
+        <Name>GREAT! movies</Name>
+        <Owner>Sony</Owner>
+        <ServiceURL>dvb://233a..6ce0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/saeed2dac52a90a999c8bcc584253c695</MediaUri>
+          </MediaLocator>
+          <PromotionalText>GREAT! movies</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="8361">
+        <Name>ITV +1</Name>
+        <Owner>ITV PLC</Owner>
+        <ServiceURL>dvb://233a..20a9</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://aitlauncher.10ft.itv.com/platform/itvonline/freeview/app-info/template</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sdab957884c72f87810385d055ae4d963</MediaUri>
+          </MediaLocator>
+          <PromotionalText>ITV +1</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="22208">
+        <Name>Pick</Name>
+        <Owner>Sky</Owner>
+        <ServiceURL>dvb://233a..56c0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sf07bfc1d17ca5ec1209a452a809c21dc</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Pick</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="28288">
+        <Name>QVC Beauty</Name>
+        <Owner>QVC</Owner>
+        <ServiceURL>dvb://233a..6e80</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s7c6e6832d92c582da5289bb18f8e719a</MediaUri>
+          </MediaLocator>
+          <PromotionalText>QVC Beauty</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="28256">
+        <Name>QVC Style</Name>
+        <Owner>QVC</Owner>
+        <ServiceURL>dvb://233a..6e60</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s90ecbb9014b50c31689f8bdf98b3f492</MediaUri>
+          </MediaLocator>
+          <PromotionalText>QVC Style</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="27680">
+        <Name>DMAX</Name>
+        <Owner>Discovery</Owner>
+        <ServiceURL>dvb://233a..6c20</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sb295c42cf86bb9e030553ccbaa6bf53a</MediaUri>
+          </MediaLocator>
+          <PromotionalText>DMAX</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="23744">
+        <Name>Quest Red</Name>
+        <Owner>Discovery</Owner>
+        <ServiceURL>dvb://233a..5cc0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sea11780747a0371a4c7b6d8b1bac368e</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Quest Red</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="14480">
+        <Name>Legend</Name>
+        <Owner>AMC Networks International UK</Owner>
+        <ServiceURL>dvb://233a..3890</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://fvp-ait-api.ss7.tv/service_deep_linked.aitx?product=horror</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sb09c219e696ff4e519acd6f72eb9e28b</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Legend</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="15576">
+        <Name>GREAT! movies action</Name>
+        <Owner>Sony</Owner>
+        <ServiceURL>dvb://233a..3cd8</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s026eaecb28ee547e1f658a130efc103a</MediaUri>
+          </MediaLocator>
+          <PromotionalText>GREAT! movies action</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="23040">
+        <Name>Food Network</Name>
+        <Owner>Discovery</Owner>
+        <ServiceURL>dvb://233a..5a00</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s359efd292de1fda935646bf552330ea9</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Food Network</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="28000">
+        <Name>HGTV</Name>
+        <Owner>Discovery</Owner>
+        <ServiceURL>dvb://233a..6d60</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s9784c806f25980ad5005227aaf8006fd</MediaUri>
+          </MediaLocator>
+          <PromotionalText>HGTV</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="24448">
+        <Name>Gems TV</Name>
+        <Owner>The Genuine Gemstone Company</Owner>
+        <ServiceURL>dvb://233a..5f80</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sb4f1e19f02ac43b41b35f833ee53a4b3</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Gems TV</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="13024">
+        <Name>Channel 5+1</Name>
+        <Owner>Channel 5 Broadcasting Ltd</Owner>
+        <ServiceURL>dvb://233a..32e0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://cassie-auth.channel5.com/freeviewplay/ait/player.xml</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s418ae2c068fadc37b8cc6cfc2680b83d</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Channel 5+1</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="22464">
+        <Name>Film4+1</Name>
+        <Owner>Channel4</Owner>
+        <ServiceURL>dvb://233a..57c0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://ait.channel4.com/ait/content</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sb916fae1f889b02b505cd7566b3c101c</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Film4+1</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="22226">
+        <Name>Challenge</Name>
+        <Owner>Sky</Owner>
+        <ServiceURL>dvb://233a..56d2</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s05114156db81b38338f02a0e57c20e5a</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Challenge</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="22528">
+        <Name>4seven</Name>
+        <Owner>Channel4</Owner>
+        <ServiceURL>dvb://233a..5800</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://ait.channel4.com/ait/content</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sd3e5d075289cc3ec83180d985fe27995</MediaUri>
+          </MediaLocator>
+          <PromotionalText>4seven</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="33984">
+        <Name>GREAT! tv</Name>
+        <Owner>Sony</Owner>
+        <ServiceURL>dvb://233a..84c0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sb03e9db5629aa8de74e2581c72cf6871</MediaUri>
+          </MediaLocator>
+          <PromotionalText>GREAT! tv</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="25920">
+        <Name>Ideal World</Name>
+        <Owner>Ideal Shopping Direct</Owner>
+        <ServiceURL>dvb://233a..6540</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s3743cbf3680ea7ed4860f7616368646f</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Ideal World</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="34048">
+        <Name>GREAT! movies classic</Name>
+        <Owner>Sony</Owner>
+        <ServiceURL>dvb://233a..8500</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s7cdf77a814b9f286e2ea8e16a86dea10</MediaUri>
+          </MediaLocator>
+          <PromotionalText>GREAT! movies classic</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="20256">
+        <Name>5SELECT</Name>
+        <Owner>Channel 5 Broadcasting Ltd</Owner>
+        <ServiceURL>dvb://233a..4f20</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://cassie-auth.channel5.com/freeviewplay/ait/player.xml</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s2f10b14a22430c03c5330c292af84d98</MediaUri>
+          </MediaLocator>
+          <PromotionalText>5SELECT</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="23152">
+        <Name>Smithsonian Channel</Name>
+        <Owner>SNI/SI Networks LLC</Owner>
+        <ServiceURL>dvb://233a..5a70</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sd213f22273f351d089dfda1a19e0787f</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Smithsonian Channel</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="15864">
+        <Name>ITVBe+1</Name>
+        <Owner>ITV PLC</Owner>
+        <ServiceURL>dvb://233a..3df8</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://aitlauncher.10ft.itv.com/platform/itvonline/freeview/app-info/template</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sa4b894fa1d2e2f5156207e53997e91eb</MediaUri>
+          </MediaLocator>
+          <PromotionalText>ITVBe+1</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="16016">
+        <Name>ITV3+1</Name>
+        <Owner>ITV PLC</Owner>
+        <ServiceURL>dvb://233a..3e90</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://aitlauncher.10ft.itv.com/platform/itvonline/freeview/app-info/template</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s003db5399bfe7f064254913663a0e6f9</MediaUri>
+          </MediaLocator>
+          <PromotionalText>ITV3+1</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="22336">
+        <Name>Drama +1</Name>
+        <Owner>UKTV</Owner>
+        <ServiceURL>dvb://233a..5740</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s7bc874032ea58c04431a45bb8fa88024</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Drama +1</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="33664">
+        <Name>GREAT! movies +1</Name>
+        <Owner>Sony</Owner>
+        <ServiceURL>dvb://233a..8380</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s2777f7d38994db9df23ac023516d84f9</MediaUri>
+          </MediaLocator>
+          <PromotionalText>GREAT! movies +1</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="14384">
+        <Name>Blaze</Name>
+        <Owner>AETN UK</Owner>
+        <ServiceURL>dvb://233a..3830</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sd5d2795d834cf6c4ad720a83980ee649</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Blaze</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="27936">
+        <Name>That's TV (UK)</Name>
+        <Owner>That's TV</Owner>
+        <ServiceURL>dvb://233a..6d20</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sdff1e587cbf94e59968a221d528289e1</MediaUri>
+          </MediaLocator>
+          <PromotionalText>That's TV (UK)</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="20160">
+        <Name>TBN UK</Name>
+        <Owner>Trinity Broadcasting Network</Owner>
+        <ServiceURL>dvb://233a..4ec0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sc002314dfafb19f54011a05e6ffcee17</MediaUri>
+          </MediaLocator>
+          <PromotionalText>TBN UK</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="14448">
+        <Name>CBS Reality</Name>
+        <Owner>AMC Networks International UK</Owner>
+        <ServiceURL>dvb://233a..3870</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://fvp-ait-api.ss7.tv/player.aitx?stream_id=713</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s5347c05aff9ac1d8b9f26bcd1874915a</MediaUri>
+          </MediaLocator>
+          <PromotionalText>CBS Reality</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="34112">
+        <Name>RealityXtra</Name>
+        <Owner>AMC Networks International UK</Owner>
+        <ServiceURL>dvb://233a..8540</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://fvp-ait-api.ss7.tv/player.aitx?stream_id=714</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sb06dde1fc16bf175ad5018e6a1048013</MediaUri>
+          </MediaLocator>
+          <PromotionalText>RealityXtra</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="27744">
+        <Name>CBS Justice</Name>
+        <Owner>AMC Networks International UK</Owner>
+        <ServiceURL>dvb://233a..6c60</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://fvp-ait-api.ss7.tv/player.aitx?stream_id=712</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s4fbbab827701aa7eba81c8bd6dc889a4</MediaUri>
+          </MediaLocator>
+          <PromotionalText>CBS Justice</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="23808">
+        <Name>QUEST+1</Name>
+        <Owner>Discovery</Owner>
+        <ServiceURL>dvb://233a..5d00</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s10642eb56e617150ceb7572a66966c1b</MediaUri>
+          </MediaLocator>
+          <PromotionalText>QUEST+1</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="27488">
+        <Name>Quest Red+1</Name>
+        <Owner>Discovery</Owner>
+        <ServiceURL>dvb://233a..6b60</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/se6a3ee706e34457b95a0af26a9d9c9dd</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Quest Red+1</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="27200">
+        <Name>Jewellery Maker</Name>
+        <Owner>The Genuine Gemstone Company Ltd</Owner>
+        <ServiceURL>dvb://233a..6a40</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sa36f0fa1e004064636adaf38aee44b91</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Jewellery Maker</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="27840">
+        <Name>HobbyMaker</Name>
+        <Owner>The Genuine Gemstone Company Ltd</Owner>
+        <ServiceURL>dvb://233a..6cc0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s9ae08dcaa31abd30896362ebcf8e670f</MediaUri>
+          </MediaLocator>
+          <PromotionalText>HobbyMaker</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="13008">
+        <Name>Dave ja vu</Name>
+        <Owner>UKTV</Owner>
+        <ServiceURL>dvb://233a..32d0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://vschedules.uktv.co.uk/tva_meta/playerait.xml</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sdd6fba78555c139be1ec96d517099e98</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Dave ja vu</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="23872">
+        <Name>Yesterday+1</Name>
+        <Owner>UKTV</Owner>
+        <ServiceURL>dvb://233a..5d40</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s07ae1c359599d14e9049994bdefbee30</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Yesterday+1</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="14488">
+        <Name>TCC</Name>
+        <Owner>AETN UK</Owner>
+        <ServiceURL>dvb://233a..3898</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s51575b500d0865010d272531aff3abd4</MediaUri>
+          </MediaLocator>
+          <PromotionalText>TCC</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="14388">
+        <Name>Blaze+1</Name>
+        <Owner>AETN UK</Owner>
+        <ServiceURL>dvb://233a..3834</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sd489279442c1dbf4942f50faafa1e6d8</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Blaze+1</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="28224">
+        <Name>TalkingPictures TV</Name>
+        <Owner>Talking Pictures TV</Owner>
+        <ServiceURL>dvb://233a..6e40</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sf452cc8b38ea1656dfbf8d6a43b80598</MediaUri>
+          </MediaLocator>
+          <PromotionalText>TalkingPictures TV</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="24192">
+        <Name>Together TV</Name>
+        <Owner>Community Channel</Owner>
+        <ServiceURL>dvb://233a..5e80</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s321accee6850a4a27aa852d47ed025cc</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Together TV</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="27968">
+        <Name>PBS America</Name>
+        <Owner>PBS America</Owner>
+        <ServiceURL>dvb://233a..6d40</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s82e318b19afafe8d0253893073233ab6</MediaUri>
+          </MediaLocator>
+          <PromotionalText>PBS America</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="23328">
+        <Name>Create &amp; Craft</Name>
+        <Owner>Hochanda</Owner>
+        <ServiceURL>dvb://233a..5b20</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s53e567bd810abcbf7032036906489d10</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Create &amp; Craft</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="15920">
+        <Name>ITV4+1</Name>
+        <Owner>ITV PLC</Owner>
+        <ServiceURL>dvb://233a..3e30</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://aitlauncher.10ft.itv.com/platform/itvonline/freeview/app-info/template</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s8c2738a582fb1e3667700f3e8d6b31df</MediaUri>
+          </MediaLocator>
+          <PromotionalText>ITV4+1</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="28032">
+        <Name>Classic Hits</Name>
+        <Owner>That's</Owner>
+        <ServiceURL>dvb://233a..6d80</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s35045c1f0629d2ca97246788df316988</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Classic Hits</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="8600">
+        <Name>Freeview</Name>
+        <Owner>Digital UK</Owner>
+        <ServiceURL>dvb://233a..2198</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.4"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://freeviewplay-explore.cloud.digitaluk.co.uk/ait/playerait.aitx</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sf3654ba37fc00e0cb9773b95446e17fe</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Freeview</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="17540">
+        <Name>BBC ONE HD</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..4484</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/bbc_one_london</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sf4d258c747c78786b7e803ed1e515c7c</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC ONE HD</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="17472">
+        <Name>BBC TWO HD</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..4440</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/bbc_two_england</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s732593b200d694b7b4ddd604032b3398</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC TWO HD</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="17604">
+        <Name>ITV HD</Name>
+        <Owner>ITV PLC</Owner>
+        <ServiceURL>dvb://233a..44c4</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://aitlauncher.10ft.itv.com/platform/itvonline/freeview/app-info/template</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s949c7d2213edb78945ba9f12cf803bfc</MediaUri>
+          </MediaLocator>
+          <PromotionalText>ITV HD</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="17664">
+        <Name>Channel 4 HD</Name>
+        <Owner>Channel4</Owner>
+        <ServiceURL>dvb://233a..4500</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://ait.channel4.com/ait/content</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s6d1d8b0ea506a8ee1e8c6a9e7613421f</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Channel 4 HD</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="17728">
+        <Name>Channel 5 HD</Name>
+        <Owner>Channel 5 Broadcasting Ltd</Owner>
+        <ServiceURL>dvb://233a..4540</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://cassie-auth.channel5.com/freeviewplay/ait/player.xml</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s21a537f7d48d3a4fec1c157491ac7874</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Channel 5 HD</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="18048">
+        <Name>BBC FOUR HD</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..4680</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/bbc_four</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s1c48aee7dee098f1529f0891439a176e</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC FOUR HD</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="17920">
+        <Name>BBC THREE HD</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..4600</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/bbc_three</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s3a4c90e62117f73440d2547d9bec81a5</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC THREE HD</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="4608">
+        <Name>CBBC</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1200</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/cbbc</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s6f866b92404308b02d0edfe8d5ae5f12</MediaUri>
+          </MediaLocator>
+          <PromotionalText>CBBC</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="4672">
+        <Name>CBeebies</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1240</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/cbeebies</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sd3073dde472949bc02f644e10c76f0fe</MediaUri>
+          </MediaLocator>
+          <PromotionalText>CBeebies</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="16032">
+        <Name>CITV</Name>
+        <Owner>ITV PLC</Owner>
+        <ServiceURL>dvb://233a..3ea0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://aitlauncher.10ft.itv.com/platform/itvonline/freeview/app-info/template</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s593c3eb9528cb7663a2e47864b64c800</MediaUri>
+          </MediaLocator>
+          <PromotionalText>CITV</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="18112">
+        <Name>CBBC HD</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..46c0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/cbbc</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s8ade433050e17db9f53775fbdb61bff3</MediaUri>
+          </MediaLocator>
+          <PromotionalText>CBBC HD</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="18176">
+        <Name>CBeebies HD</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..4700</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/cbeebies</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/scd0083fd04f1ca0e9944e90e83233f95</MediaUri>
+          </MediaLocator>
+          <PromotionalText>CBeebies HD</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="27424">
+        <Name>POP</Name>
+        <Owner>Sony</Owner>
+        <ServiceURL>dvb://233a..6b20</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://fvp-ait-api.ss7.tv/service_deep_linked.aitx?env=prod&amp;product=sonykids</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s97199a8d70db75f78506e35dd89d7af9</MediaUri>
+          </MediaLocator>
+          <PromotionalText>POP</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="33472">
+        <Name>Tiny Pop</Name>
+        <Owner>Sony</Owner>
+        <ServiceURL>dvb://233a..82c0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://fvp-ait-api.ss7.tv/service_deep_linked.aitx?env=prod&amp;product=sonykids</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s7f3563085be5b93c82e66cffbd40c103</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Tiny Pop</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="12960">
+        <Name>Pop Player</Name>
+        <Owner>Sony</Owner>
+        <ServiceURL>dvb://233a..32a0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.4"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://fvp-ait-api.ss7.tv/service_deep_linked.aitx?env=prod&amp;product=sonykids</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sa1cba849f6bf53cd3d64853d6f2c0b6a</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Pop Player</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="16200">
+        <Name>Ketchup TV</Name>
+        <Owner>VOD365</Owner>
+        <ServiceURL>dvb://233a..3f48</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.4"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sc1aa79ad2d77e9fab8cfbf91fb43f6ca</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Ketchup TV</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="12952">
+        <Name>YAAAS!</Name>
+        <Owner>VOD365</Owner>
+        <ServiceURL>dvb://233a..3298</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.4"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sda97192681b28ca3be4edddaa8c0cb08</MediaUri>
+          </MediaLocator>
+          <PromotionalText>YAAAS!</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="4352">
+        <Name>BBC NEWS</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1100</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/bbc_news24</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/se0762fd3f27d7967077c9cb89ca40e52</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC NEWS</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="4736">
+        <Name>BBC Parliament</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1280</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/bbc_parliament</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sb7b68272ef2b70062ce5e1e5a0186c12</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC Parliament</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="22080">
+        <Name>Sky News</Name>
+        <Owner>Sky</Owner>
+        <ServiceURL>dvb://233a..5640</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sd94323560d46b119c78a8660e8d184db</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Sky News</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="27712">
+        <Name>Al Jazeera Eng</Name>
+        <Owner>Al Jazeera</Owner>
+        <ServiceURL>dvb://233a..6c40</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sc3959f3eef27239d0bac5a92703063b2</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Al Jazeera Eng</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="27360">
+        <Name>GB News</Name>
+        <Owner>GB News</Owner>
+        <ServiceURL>dvb://233a..6ae0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sdfcd1a58c073f86123a311dc4452e8b0</MediaUri>
+          </MediaLocator>
+          <PromotionalText>GB News</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="12944">
+        <Name>TalkTV</Name>
+        <Owner>News UK Broadcasting Limited</Owner>
+        <ServiceURL>dvb://233a..3290</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s992481a89a40b094d0031f197afa4c4d</MediaUri>
+          </MediaLocator>
+          <PromotionalText>TalkTV</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="4416">
+        <Name>BBC Red Button</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1140</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s5e22465b06d5086f5a16ff82f3fcf4e3</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC Red Button</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="15016">
+        <Name>Sonlife</Name>
+        <Owner>Sonlife</Owner>
+        <ServiceURL>dvb://233a..3aa8</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.4"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/see3195c98d38b27b0a72aa42eebb5e0b</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Sonlife</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="15456">
+        <Name>VisionTV</Name>
+        <Owner>Vision247</Owner>
+        <ServiceURL>dvb://233a..3c60</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.4"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s9eb027f7c63c1f9db148d18af5fe6429</MediaUri>
+          </MediaLocator>
+          <PromotionalText>VisionTV</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="15064">
+        <Name>On Demand 365</Name>
+        <Owner>VOD365</Owner>
+        <ServiceURL>dvb://233a..3ad8</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.4"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s47cd5d363f7425801353cc7a19e2a037</MediaUri>
+          </MediaLocator>
+          <PromotionalText>On Demand 365</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="15432">
+        <Name>Arise News</Name>
+        <Owner>Synapse</Owner>
+        <ServiceURL>dvb://233a..3c48</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.4"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s0e3c1fb8b44bcefbdebc7229e7bb0a42</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Arise News</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="15448">
+        <Name>Channelbox</Name>
+        <Owner>Channelbox - S&amp;T</Owner>
+        <ServiceURL>dvb://233a..3c58</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.4"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s82db19acbbc32c152120a1a0eaf02b6c</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Channelbox</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="13144">
+        <Name>Asharq News</Name>
+        <Owner>Vision247 LTD</Owner>
+        <ServiceURL>dvb://233a..3358</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.4"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s6d4e4f2056da5fd0fd8c8fb5eb91713b</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Asharq News</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="13136">
+        <Name>Al Arabiya</Name>
+        <Owner>Vision247 LTD</Owner>
+        <ServiceURL>dvb://233a..3350</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.4"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s68e558a20876b4c80beafdfc3e6543c0</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Al Arabiya</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="8601">
+        <Name>Accessible TV Guide</Name>
+        <Owner>Digital UK</Owner>
+        <ServiceURL>dvb://233a..2199</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.4"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sb8f67dd5aad52786d762a091d246f51e</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Accessible TV Guide</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="7168">
+        <Name>BBC RB 1</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1c00</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s5e22465b06d5086f5a16ff82f3fcf4e3</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC RB 1</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="15200">
+        <Name>ADULT Section</Name>
+        <Owner>Digital UK</Owner>
+        <ServiceURL>dvb://233a..3b60</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s373c9aa814381bb8b4984fd8c29883e7</MediaUri>
+          </MediaLocator>
+          <PromotionalText>ADULT Section</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="22400">
+        <Name>ADULT smileTV3</Name>
+        <Owner>Cellcast</Owner>
+        <ServiceURL>dvb://233a..5780</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s44648c5ee0ffeb4742fc3755c4811f5f</MediaUri>
+          </MediaLocator>
+          <PromotionalText>ADULT smileTV3</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="27904">
+        <Name>ADULT Babestn</Name>
+        <Owner>Cellcast</Owner>
+        <ServiceURL>dvb://233a..6d00</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s069517d004aa0e3fb16ec9d1e1ef3164</MediaUri>
+          </MediaLocator>
+          <PromotionalText>ADULT Babestn</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="27648">
+        <Name>ADULT Xpanded TV</Name>
+        <Owner>TxtMeTV</Owner>
+        <ServiceURL>dvb://233a..6c00</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s14354300890b4196e61f686f76769e07</MediaUri>
+          </MediaLocator>
+          <PromotionalText>ADULT Xpanded TV</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="15208">
+        <Name>695</Name>
+        <Owner>Digital UK</Owner>
+        <ServiceURL>dvb://233a..3b68</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s3494551317e519a1eb717777ed850737</MediaUri>
+          </MediaLocator>
+          <PromotionalText>695</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="15176">
+        <Name>696</Name>
+        <Owner>Digital UK</Owner>
+        <ServiceURL>dvb://233a..3b48</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s1255f70c616c4f3128adf00f5daa079f</MediaUri>
+          </MediaLocator>
+          <PromotionalText>696</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="24500">
+        <Name>697</Name>
+        <Owner>Digital UK</Owner>
+        <ServiceURL>dvb://233a..5fb4</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/scd6acd739246d3ed8b7b718e06d0efa5</MediaUri>
+          </MediaLocator>
+          <PromotionalText>697</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="28520">
+        <Name>698</Name>
+        <Owner>Digital UK</Owner>
+        <ServiceURL>dvb://233a..6f68</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sdad70a9293f76e5e1b8731f99efccda2</MediaUri>
+          </MediaLocator>
+          <PromotionalText>698</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="27584">
+        <Name>ADULT Section</Name>
+        <Owner>Digital UK</Owner>
+        <ServiceURL>dvb://233a..6bc0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s373c9aa814381bb8b4984fd8c29883e7</MediaUri>
+          </MediaLocator>
+          <PromotionalText>ADULT Section</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="6720">
+        <Name>BBC Radio 1</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1a40</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/bbc_radio_one</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s5a88c63ecf8d49a27967bd653cecbf33</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC Radio 1</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="5888">
+        <Name>BBC R1X</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1700</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/bbc_radio_one</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s233386a6b254110308aad91515f5407f</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC R1X</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="6784">
+        <Name>BBC Radio 2</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1a80</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sb897096ba8b57b3e25ab767ba503f419</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC Radio 2</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="6848">
+        <Name>BBC Radio 3</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1ac0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s3714a7e3bf096025b331f3840a96706e</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC Radio 3</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="6912">
+        <Name>BBC Radio 4</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1b00</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s4619943a6df4841e0ead8a417bb7eddb</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC Radio 4</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="5632">
+        <Name>BBC R5L</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1600</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sda5c69513c5b866e6e582d9652ebf519</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC R5L</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="5696">
+        <Name>BBC 5SX</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1640</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s4608b18369f3b9bb087fd4af7db596c2</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC 5SX</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="5760">
+        <Name>BBC 6 Music</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1680</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s9af30208e383305054317089f0bb7f79</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC 6 Music</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="5824">
+        <Name>BBC Radio 4 Ex</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..16c0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s0bde276195144bea6d6e20bdb1a44c3b</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC Radio 4 Ex</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="5952">
+        <Name>BBC Asian Net.</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1740</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sdee915f3fc02799b6c432299eaebaa52</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC Asian Net.</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="6016">
+        <Name>BBC World Sv.</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1780</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sd8f9ab89e67b27ec244f480fdec3bec4</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC World Sv.</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="26560">
+        <Name>Hits Radio</Name>
+        <Owner>Bauer Media</Owner>
+        <ServiceURL>dvb://233a..67c0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sd5326086da0f29e5788e0312c553a4c6</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Hits Radio</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="27040">
+        <Name>KISS FRESH</Name>
+        <Owner>Bauer Media</Owner>
+        <ServiceURL>dvb://233a..69a0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sb200975bbfe378039e9cc17419880e20</MediaUri>
+          </MediaLocator>
+          <PromotionalText>KISS FRESH</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="26176">
+        <Name>KISS</Name>
+        <Owner>Bauer Media</Owner>
+        <ServiceURL>dvb://233a..6640</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sc76bd04c55d7744d0ca406e0a9145ed6</MediaUri>
+          </MediaLocator>
+          <PromotionalText>KISS</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="26752">
+        <Name>KISSTORY</Name>
+        <Owner>Bauer Media</Owner>
+        <ServiceURL>dvb://233a..6880</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/se70c6057ad3843896a9ed283a8ec67af</MediaUri>
+          </MediaLocator>
+          <PromotionalText>KISSTORY</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="26624">
+        <Name>Magic</Name>
+        <Owner>Bauer Media</Owner>
+        <ServiceURL>dvb://233a..6800</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sb2a0d31d7b48340a8685d510c3ef4082</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Magic</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="26240">
+        <Name>Greatest Hits Radio</Name>
+        <Owner>Bauer Media</Owner>
+        <ServiceURL>dvb://233a..6680</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s48d7426af222048fde8ac545464fd534</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Greatest Hits Radio</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="26304">
+        <Name>Kerrang!</Name>
+        <Owner>Bauer Media</Owner>
+        <ServiceURL>dvb://233a..66c0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s71c237ecbd994a108b9723e2aa99dd2e</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Kerrang!</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="26368">
+        <Name>Smooth Radio</Name>
+        <Owner>Global</Owner>
+        <ServiceURL>dvb://233a..6700</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s62b0aa78d997e56d0770c3a03e8b8b26</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Smooth Radio</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="6275">
+        <Name>BBC Berkshire</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1883</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s2db39e6e80cfcc7856491c93134a4dc3</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC Berkshire</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="6157">
+        <Name>BBC Three Counties</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..180d</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sbf429b6f32effbf1227edf7b65a55a84</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC Three Counties</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="6148">
+        <Name>BBC Radio London</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1804</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sddc9530136db306463087bbbf075a4ca</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC Radio London</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="6284">
+        <Name>BBC Surrey</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..188c</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s3b2cfe940e62dd81d3089dbef016df59</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC Surrey</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="22592">
+        <Name>talkSPORT</Name>
+        <Owner>Wireless Group</Owner>
+        <ServiceURL>dvb://233a..5840</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s51d12168bf67dd292c97e9e3831fbc7d</MediaUri>
+          </MediaLocator>
+          <PromotionalText>talkSPORT</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="14752">
+        <Name>Capital</Name>
+        <Owner>Global</Owner>
+        <ServiceURL>dvb://233a..39a0</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sbde58f821ce4654be1d3b8da5cf592f4</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Capital</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="28160">
+        <Name>Premier Radio</Name>
+        <Owner>Premier Christian Media Trust</Owner>
+        <ServiceURL>dvb://233a..6e00</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sefcbe7928293b1d233840fe0a40883a0</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Premier Radio</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="14688">
+        <Name>Absolute Radio</Name>
+        <Owner>Bauer Media</Owner>
+        <ServiceURL>dvb://233a..3960</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sdbf3528019c69a99492ebf5938f6c177</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Absolute Radio</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="14720">
+        <Name>Heart</Name>
+        <Owner>Global</Owner>
+        <ServiceURL>dvb://233a..3980</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sffa40cd403c32136678c8a6c2bf68752</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Heart</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="22624">
+        <Name>RNIB Connect</Name>
+        <Owner>RNIB</Owner>
+        <ServiceURL>dvb://233a..5860</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sf7edd97ef68f4208344a16ccb00f9dce</MediaUri>
+          </MediaLocator>
+          <PromotionalText>RNIB Connect</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="22848">
+        <Name>Classic FM</Name>
+        <Owner>Global</Owner>
+        <ServiceURL>dvb://233a..5940</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s46a6ddb60c3b041711c9765beb1d093e</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Classic FM</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="22880">
+        <Name>LBC</Name>
+        <Owner>Global</Owner>
+        <ServiceURL>dvb://233a..5960</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s15dfb1d5da38caa1d6c09e22de70f76b</MediaUri>
+          </MediaLocator>
+          <PromotionalText>LBC</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="22912">
+        <Name>Trans World Radio</Name>
+        <Owner>Trans World Radio</Owner>
+        <ServiceURL>dvb://233a..5980</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s3e80c8b2278740e1d218f05f37f62523</MediaUri>
+          </MediaLocator>
+          <PromotionalText>Trans World Radio</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="6279">
+        <Name>BBC Essex</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1887</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.9"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.1"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:unenhanced"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s10e1329a61523536bf8c36672ea6cb2e</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC Essex</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="27776">
+        <Name>CBS Drama</Name>
+        <Owner>AMC Networks International UK</Owner>
+        <ServiceURL>dvb://233a..6c80</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://fvp-ait-api.ss7.tv/player.aitx?stream_id=714</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/s79bf42de3b4e6988a429d067a8c094f6</MediaUri>
+          </MediaLocator>
+          <PromotionalText>CBS Drama</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+    </ServiceInformationTable>
+  </ProgramDescription>
+</TVAMain>

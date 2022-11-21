@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TVAMain xmlns="urn:tva:metadata:2012" xmlns:tva2="urn:tva:metadata:extended:2012"
+         xmlns:mpeg7="urn:tva:mpeg7:2008" xml:lang="eng"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProgramDescription>
+    <ServiceInformationTable xml:lang="eng">
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="4164">
+        <Name>BBC ONE Lon</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..1044</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated  href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/bbc_one_london</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sce0bc23f7b08de55ceb697581c6cda8a</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC ONE Lon</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="4287">
+        <Name>BBC TWO</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a..10bf</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">https://www.live.bbctvapps.co.uk/tap/iplayer/ait/launch/iplayer.aitx?deeplink=tv/channels/bbc_two_england</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/se9fa78602ef0e2ed93044629e5a5751e</MediaUri>
+          </MediaLocator>
+          <PromotionalText>BBC TWO</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+      <ServiceInformation xsi:type="tva2:ExtendedServiceInformationType" serviceId="8261">
+        <Name>ITV</Name>
+        <Owner>ITV PLC</Owner>
+        <ServiceURL>dvb://233a..2045</ServiceURL>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceTypeCS:2014-11:linear"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:OriginationCS:2011:5.8"/>
+        <ServiceGenre type="main" href="urn:tva:metadata:cs:MediaTypeCS:2010:7.1.3"/>
+        <ServiceGenre type="main" href="urn:fvc:metadata:cs:ServiceMetadataCS:2015-08:enhanced_ondemand"/>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:10.5"/>
+          <MediaLocator>
+            <MediaUri contentType="application/vnd.dvb.ait+xml">http://aitlauncher.10ft.itv.com/platform/itvonline/freeview/app-info/template</MediaUri>
+          </MediaLocator>
+        </RelatedMaterial>
+        <RelatedMaterial xsi:type="tva2:ExtendedRelatedMaterialType">
+          <HowRelated href="urn:tva:metadata:cs:HowRelatedCS:2012:19"/>
+          <MediaLocator>
+            <MediaUri contentType="image/png">https://img.freeviewplay.net/sb2238840d2aaeeb67322aaaaef957402</MediaUri>
+          </MediaLocator>
+          <PromotionalText>ITV</PromotionalText>
+        </RelatedMaterial>
+      </ServiceInformation>
+    </ServiceInformationTable>
+  </ProgramDescription>
+</TVAMain>
